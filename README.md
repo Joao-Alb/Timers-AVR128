@@ -1,2 +1,3 @@
 # Timers-AVR128
-Diversos códigos para o uso dos timers dos microcontroladores da família AVR128
+Feito em outubro/2021.
+Esses códigos foram base de estudo para compreender e estudar as funcionalidades dos timers do AVR128DA48.
